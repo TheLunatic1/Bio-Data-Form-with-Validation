@@ -1,6 +1,5 @@
 # Bio-Data-Form-with-Validation
 
-### Methodology
 
 The system was developed using PHP 8.1+ and runs on XAMPP/WAMP local server.
 
